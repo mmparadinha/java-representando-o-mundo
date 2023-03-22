@@ -4,4 +4,8 @@ Sabemos que existe uma plataforma muito famosa, que busca ajudar as pessoas estu
 
 ## Resolução
 
+Criadas duas classes: topico e resposta.
 
+O primeiro compreende o tópico questionado, sua disciplina referente e assunto dentro desta, bem como a melhor resposta recebida.
+
+O segundo, a melhor resposta recebida, apresenta nome do usuário que a fez, a resposta oferecida e a quantia atual de likes.

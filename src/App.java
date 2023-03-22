@@ -7,7 +7,7 @@ public class App {
     newTopic.setDisciplina("Física");
     newTopic.setAssunto("Física clássica");
 
-    newTopic.respostaEscolhida.username = "João";
+    newTopic.respostaEscolhida.setUsername("João");
     newTopic.respostaEscolhida.texto = "Isaac Newton";
     newTopic.respostaEscolhida.likes = 55;
   }

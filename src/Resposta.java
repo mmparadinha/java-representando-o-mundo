@@ -1,5 +1,13 @@
 public class Resposta {
-  String username;
+  private String username;
   String texto;
-  int likes; 
+  int likes;
+
+  String getUsername() {
+    return this.username;
+  }
+
+  void setUsername(String username) {
+    this.username = username;
+  }
 }
